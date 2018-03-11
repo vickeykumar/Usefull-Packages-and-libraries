@@ -8,4 +8,5 @@
 8. socket.io - for bidirectional communication
 9. cluster - utilizing maximum cores
 10. pm2 - tool to host application
-11. 
+11. refer to git@github.com:sorrycc/awesome-javascript.git
+12. 
